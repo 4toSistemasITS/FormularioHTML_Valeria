@@ -1,0 +1,13 @@
+form{
+	width: 25%;
+	border: 15px solid #800000;
+	margin: 20px;
+	padding: 20px;
+}
+input{
+	margin-bottom: 20px;
+	width: 50%;  
+}
+body{
+	background-color: #CCCCFF; 
+}
